@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Sample Kanban Board
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This web application was developed using React and Chakra UI
+
+# Preview
+https://github.com/diniesganesan/kanban-board/assets/35025414/9fb9f830-200f-410f-9e4a-e58ed7176d94
 
 ## Available Scripts
 
